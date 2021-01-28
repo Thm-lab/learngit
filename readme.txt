@@ -4,3 +4,4 @@ Git is free software.
 vi进入文件；'i'进入编辑模式；命令模式q!不保存修改wq!保存修改；
 命令模式:w只保存你推出文件；e！放弃修改但是不退出文件
 git checkout -b name可以创建新分支
+Creating a new branch is quick & simple.
