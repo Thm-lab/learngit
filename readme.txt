@@ -5,8 +5,3 @@ vi进入文件；'i'进入编辑模式；命令模式q!不保存修改wq!保存�
 命令模式:w只保存你推出文件；e！放弃修改但是不退出文件
 <<<<<<< HEAD
 git checkout -b name可以创建新分支
-Creating a new branch is quick and simple.
-=======
-git checkout -b name可以创建新分支(git switch -c name也可以甚至更好用)
-Creating a new branch is quick and simple.
->>>>>>> feature1
